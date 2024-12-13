@@ -1,0 +1,4 @@
+edge-tts  # Required for text-to-speech processing
+
+# Optional dependencies for testing
+# pytest
