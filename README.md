@@ -4,13 +4,14 @@ This Python-based application converts text into natural-sounding speech. It use
 
 ## Features:
 - Converts plain text to audio files.
-- Supports multiple languages and voice types.
-- Customizable speed and pitch settings.
+- Supports multiple voice types.
 - Easy-to-use interface.
+- Convert large amount of text.
 
 ## Technologies Used:
 - Python
-- TTS
+- Edge-TTS
+- Customtkinter
 
 ## How to Use:
 1. Clone the repository.
